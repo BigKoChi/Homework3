@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"controller","c":"TicketUI","l":"fplace"},{"p":"controller","c":"TicketUI","l":"gplace"},{"p":"controller","c":"TicketUI","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"controller","c":"TicketUI","l":"TicketUI()","u":"%3Cinit%3E()"}];updateSearchResults();
